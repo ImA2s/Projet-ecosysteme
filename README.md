@@ -149,21 +149,33 @@ Chaque case est représentée par un caractère :
 
 
 Exemple d’affichage :
+
 Nb proies (): 20
+
 Nb predateurs (O): 20
+
 +----------+
 | * |
-| O * **O|
-| OO |
-| O O |
-| @ O O |
-| ** *O |
-| @ O @ |
-| * O@ |
-| O O |
-| O O @ |
-+----------+
 
+| O * **O|
+
+| OO |
+
+| O O |
+
+| @ O O |
+
+| ** *O |
+
+| @ O @ |
+
+| * O@ |
+
+| O O |
+
+| O O @ |
+
++----------+
 
 L’herbe n’est pas affichée dans cette version.
 
